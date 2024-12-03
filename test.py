@@ -1,4 +1,1 @@
-cout("Hello, World!")
-rec
-rr
-[[]]yhujuuj
+printf("hhhhh)
