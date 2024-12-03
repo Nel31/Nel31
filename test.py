@@ -1,2 +1,1 @@
-print("Hello, World!")
-fdj
+printf("Hello, World!")
